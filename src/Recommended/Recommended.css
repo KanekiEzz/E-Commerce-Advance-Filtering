@@ -1,0 +1,22 @@
+.Recommended-flex{
+  display: flex;
+  margin-left: 20rem;
+}
+
+.Recommended-title{
+  margin-left: 20rem;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.btns{
+  padding: 10px 20px;
+  margin-right: 6px;
+  background: transparent;
+  border:2px black solid;
+  border-radius: 5px;
+  color: #323232;
+  cursor: pointer;
+}
