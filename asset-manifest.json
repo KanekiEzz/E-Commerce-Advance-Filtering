@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-Advance-Filtering/static/css/main.82037258.css",
+    "main.js": "/E-Commerce-Advance-Filtering/static/js/main.bed29d13.js",
+    "index.html": "/E-Commerce-Advance-Filtering/index.html",
+    "main.82037258.css.map": "/E-Commerce-Advance-Filtering/static/css/main.82037258.css.map",
+    "main.bed29d13.js.map": "/E-Commerce-Advance-Filtering/static/js/main.bed29d13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82037258.css",
+    "static/js/main.bed29d13.js"
+  ]
+}
